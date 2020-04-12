@@ -8,8 +8,8 @@
 **DO**
 
  - Set up Heroku
-   - Sign up for a free Heroku account.
-   - Follow the instructions here to download the Heroku CLI.
+   - Sign up for a free [Heroku account](https://www.heroku.com/).
+   - Follow the instructions [here](https://devcenter.heroku.com/articles/heroku-cli) to download the Heroku CLI.
 
 
 **Watch Second**
