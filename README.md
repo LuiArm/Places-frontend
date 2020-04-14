@@ -1,6 +1,6 @@
 # W08D02-HW
 
-### 1. TBD- EST TIME: 2hr
+### 1. Cookbooks- EST TIME: 2hr
 [Cookbook Part 2](https://git.generalassemb.ly/SEIR-224/Cookbook-Part-2)
 
 ### 2. Read/Watch/Do the Following - EST TIME: 5min
