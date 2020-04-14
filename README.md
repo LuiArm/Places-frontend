@@ -11,7 +11,8 @@
 
 
 
-### 3. Algo Practice - EST TIME: 1hr
+### 3. Algo Practice - EST TIME: 20mim
+[Haystack](https://git.generalassemb.ly/SEIR-224/W08D02-HW/blob/master/Algo.md)
 
 
 ### 4.  Interview Practice - EST TIME: 20min
