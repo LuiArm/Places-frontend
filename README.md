@@ -1,13 +1,13 @@
 # W08D02-HW
 
-### 1. TBD- EST TIME: 1hr
+### 1. TBD- EST TIME: 2hr
 [Cookbook Part 2](https://git.generalassemb.ly/SEIR-224/Cookbook-Part-2)
 
-### 2. Read/Watch/Do the Following - EST TIME: 40min
+### 2. Read/Watch/Do the Following - EST TIME: 5min
 
-**DO**
+**Read**
+[Fetch vs Axios](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5)
 
-**Watch Second**
 
 
 ### 3. Algo Practice - EST TIME: 1hr
