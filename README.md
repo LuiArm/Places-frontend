@@ -1,4 +1,4 @@
-# W08D02-HW
+# W08D01-HW
 
 ### 1. Cookbooks- EST TIME: 2hr
 - [Cookbook Part 2](https://git.generalassemb.ly/SEIR-1207/Cookbook-Part-2)
