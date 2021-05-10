@@ -1,7 +1,7 @@
 # W08D01-HW
 
 ### 1. Places App- EST TIME: 3hr
-- [Places App]()
+- [Places App](https://git.generalassemb.ly/SEIR-329/W08D01-HW/blob/master/places_app.md)
 
 ### 2. Read/Watch/Do the Following - EST TIME: 5min
 
