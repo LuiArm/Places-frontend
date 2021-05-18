@@ -9,9 +9,9 @@ const Display = (props) => {
         <article key={place.id}>
           <img src={place.img}/>
           <h1>{place.name}</h1>
-          <h3>{place.age}</h3>
+          <h3>{place.description}</h3>
           <button onClick={() =>{
-            props.selectDog(place)
+            props.selectPlace(place)
             props.history.push("/edit")
           }}>
             edit 

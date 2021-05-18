@@ -26,6 +26,10 @@ function App() {
     })
   }
 
+  React.useEffect(() => {
+    getPlaces()
+  }, [])
+
   const handleCreate = (newPlace) => {
     fetch(url + "/place/", {
       method: "POST",

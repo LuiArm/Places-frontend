@@ -24,7 +24,7 @@ const Form = (props) => {
         onChange={handleChange}
       />
       <input
-        type="texter"
+        type="text"
         name="img"
         value={formData.img}
         onChange={handleChange}
